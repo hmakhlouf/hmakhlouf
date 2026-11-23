@@ -14,4 +14,4 @@ Data engineer and founder of **[Tassili Technology](https://tassilitechnology.co
 **[data-quality-starter-kit](https://github.com/hmakhlouf/data-quality-starter-kit)**: automated data quality checks for any pipeline. Rules as config, stored results, and an issue log that says who fixes what. Runnable demo plus dbt, Spark, AWS Glue, Great Expectations, Snowflake and Airflow examples.
 
 ### 📫 Contact
-contact@tassilitechnology.com · [tassilitechnology.com](https://tassilitechnology.com) · Houston, TX
+contact@tassilitechnology.com · [tassilitechnology.com](https://tassilitechnology.com) 
