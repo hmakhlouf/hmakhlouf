@@ -1,6 +1,6 @@
 ### Hi, I'm Hocine 👋
 
-Data Engineer based in Mannheim, open to roles in Germany. I build data pipelines that run fast, cost less and can be trusted, for APIs, analytics and AI.
+Data Engineer, open to new opportunities. I build data pipelines that run fast, cost less and can be trusted, for APIs, analytics and AI.
 
 - 🛠️ **Build:** data pipelines and ETL/ELT, lakehouses, streaming and batch
 - 🔧 **Fix:** data quality, slow or failing jobs, high cloud costs
