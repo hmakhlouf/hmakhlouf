@@ -1,6 +1,6 @@
 ### Hi, I'm Hocine 👋
 
-Data engineer and founder of **[Tassili Technology](https://tassilitechnology.com)**, a data engineering consultancy: data pipelines that run fast, cost less and can be trusted, for APIs, analytics and AI.
+Data Engineer based in Mannheim, open to roles in Germany. I build data pipelines that run fast, cost less and can be trusted, for APIs, analytics and AI.
 
 - 🛠️ **Build:** data pipelines and ETL/ELT, lakehouses, streaming and batch
 - 🔧 **Fix:** data quality, slow or failing jobs, high cloud costs
@@ -14,4 +14,4 @@ Data engineer and founder of **[Tassili Technology](https://tassilitechnology.co
 **[data-quality-starter-kit](https://github.com/hmakhlouf/data-quality-starter-kit)**: automated data quality checks for any pipeline. Rules as config, stored results, and an issue log that says who fixes what. Runnable demo plus dbt, Spark, AWS Glue, Great Expectations, Snowflake and Airflow examples.
 
 ### 📫 Contact
-contact@tassilitechnology.com · [tassilitechnology.com](https://tassilitechnology.com) 
+hocinemakhlouf1911@gmail.com · [LinkedIn](https://www.linkedin.com/in/hmakhlouf/) 
